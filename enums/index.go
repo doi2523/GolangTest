@@ -1,3 +1,4 @@
+//Liệt kê - Enum
 package main
 
 import "fmt"
