@@ -1,3 +1,4 @@
+ // Hàm Print nhận một dãy các giá trị T - generics
 package main
 
 import "fmt"
